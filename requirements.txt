@@ -1,5 +1,5 @@
 haversine
-meshtastic
+meshtastic>=2.7.8
 requests
 pyyaml
 paho-mqtt
